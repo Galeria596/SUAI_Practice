@@ -1,0 +1,28 @@
+Words count: 12011
+Duration: 265.011 ms
+Number of words for each letter of the alphabet:
+a: 1263
+b: 122
+c: 551
+d: 588
+e: 1256
+f: 506
+g: 48
+h: 106
+i: 694
+j: 74
+k: 0
+l: 697
+m: 810
+n: 990
+o: 215
+p: 785
+r: 230
+s: 949
+t: 538
+u: 471
+v: 849
+w: 0
+x: 0
+y: 0
+z: 0
