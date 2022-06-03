@@ -1,5 +1,5 @@
 Words count: 2968
-Duration: 49.2487 ms
+Duration: 126.534 ms
 Number of words for each letter of the alphabet:
 a: 300
 b: 26
